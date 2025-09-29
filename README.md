@@ -1,4 +1,12 @@
 im Soheil Rostami Frontend Developer with ReactJs & NextJs
+# 👋 سلام! من سهیلم
+فرانت‌اند دولوپر | عاشق React و Next.js 🚀
+
+## 🔧 مهارت‌ها
+- React ⚛️
+- Next.js 🖤
+- Redux 🔥
+
 
 <!--
 **3oheil-rostami/3oheil-rostami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
