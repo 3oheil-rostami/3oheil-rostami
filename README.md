@@ -1,13 +1,12 @@
-# 👋 سلام! من سهیلم  
+# 👋 Hey there, I'm Soheil  
 
-یک توسعه‌دهنده‌ی فرانت‌اند عاشق تکنولوژی وب هستم.  
-من با **HTML**, **CSS**, **JavaScript**, **React**, **Next.js**, **Bootstrap** و **Tailwind CSS** کار می‌کنم  
-و عاشق یادگیری چیزهای جدید و حل مسائل چالش‌برانگیز هستم.  
-هدفم ساخت رابط‌های کاربری سریع، زیبا و کاربرپسند است. 🚀  
+I'm a passionate **Front-End Developer** who loves building beautiful, fast, and user-friendly web applications.  
+Skilled in **HTML**, **CSS**, **JavaScript**, **React**, **Next.js**, **Bootstrap**, and **Tailwind CSS**.  
+I’m obsessed with learning new technologies, solving challenging problems, and pushing my skills to the next level. 🚀  
 
 ---
 
-## 🛠 مهارت‌ها و تکنولوژی‌ها
+## 🛠 Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
@@ -20,7 +19,7 @@
 
 ---
 
-## 📊 آمار فعالیت
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=3oheil-rostami&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
